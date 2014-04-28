@@ -1,5 +1,3 @@
-### Patc is the best
+### Pat is the best
 
-Here is the first file
-
-kdsjhfkajhsdfkajsdhfl
+Here is the first file.
